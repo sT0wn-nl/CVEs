@@ -1,4 +1,4 @@
-The following is a list of my submitted CVE's
+The following is a list of my collected CVE's
 
 ## Glory Systems, RBW-100
 The Glory RBW-100 banknote recycling system controls cash and removes the need for manual note handling. I've found two vulnerabilities in the Font Circle Controller management interface that can lead to a reverse root-shell:
