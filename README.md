@@ -1,5 +1,11 @@
 The following is a list of my collected CVE's
 
+## Uniguest Tripleplay
+Tripleplay’s TripleSign Digital Signage is a fully integrated digital signage platform that allows users to dynamically control, update and deliver digital and video communications to a variety of end devices. During a pentest i've found multiple 0days that affacted the latest firmware:
+* [CVE-2023-25759](https://github.com/sT0wn-nl/CVEs/tree/master/CVE-2023-25759/README.md) OS command injection
+* [CVE-2023-25760](https://github.com/sT0wn-nl/CVEs/tree/master/CVE-2023-25760/README.md) Privilege escalation
+* [CVE-2023-26599](https://github.com/sT0wn-nl/CVEs/tree/master/CVE-2023-26599/README.md) Stored XSS
+
 ## Nagios XI
 Nagios XI is an enterprise monitoring solution, see https://www.nagios.com/products/nagios-xi/ for more information. During an pentest i've found 4 0days:
 * [CVE-2022-29270](https://github.com/sT0wn-nl/CVEs/tree/master/CVE-2022-29270/README.md) No password conformation during e-mail change leads to account takeover
