@@ -1,5 +1,8 @@
 The following is a list of my collected CVE's
 
+## FortiClient for Windows
+* [CVE-2023-37939](https://github.com/sT0wn-nl/CVEs/tree/master/CVE-2023-37939]/README.md) 
+
 ## Uniguest Tripleplay
 Tripleplay’s TripleSign Digital Signage is a fully integrated digital signage platform that allows users to dynamically control, update and deliver digital and video communications to a variety of end devices. During a pentest i've found multiple 0days that affacted the latest firmware:
 * [CVE-2023-25759](https://github.com/sT0wn-nl/CVEs/tree/master/CVE-2023-25759/README.md) OS command injection
