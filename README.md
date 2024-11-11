@@ -1,5 +1,8 @@
 The following is a list of my collected CVE's
 
+## Comfortkey
+* [CVE-2024-27120](https://csirt.divd.nl/cves/CVE-2024-27120/)
+
 ## FortiClient for Windows
 * [CVE-2023-37939](https://github.com/sT0wn-nl/CVEs/tree/master/CVE-2023-37939]/README.md) 
 
