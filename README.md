@@ -1,5 +1,15 @@
 The following is a list of my collected CVE's
 
+## IBM Content Navigator
+* [CVE-2024-56341](https://www.ibm.com/support/pages/node/7229839) Cross-site scripting
+
+## Uniguest Tripleplay
+Tripleplay’s TripleSign Digital Signage is a fully integrated digital signage platform that allows users to dynamically control, update and deliver digital and video communications to a variety of end devices. During a pentest i've found multiple 0days that affacted the latest firmware:
+* [CVE-2024-50707](https://uniguest.com/wp-content/uploads/2025/03/CVE-2024-50707-Vulnerability-Summary-1.pdf) remote code execution
+* [CVE-2024-50706](https://uniguest.com/wp-content/uploads/2025/03/CVE-2024-50706-Vulnerability-Summary-1.pdf) SQL injetion
+* [CVE-2024-50705](https://uniguest.com/wp-content/uploads/2025/02/CVE-2024-50705-Vulnerability-Summary.pdf) Reflexted cross-site scripting
+* [CVE-2024-50704]([https://uniguest.com/cve-bulletins/](https://uniguest.com/wp-content/uploads/2025/03/CVE-2024-50707-Vulnerability-Summary-1.pdf) remote code execution
+
 ## Comfortkey
 * [CVE-2024-27120](https://csirt.divd.nl/cves/CVE-2024-27120/) Path traversal
 
