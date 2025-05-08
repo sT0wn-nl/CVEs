@@ -1,5 +1,8 @@
 The following is a list of my collected CVE's
 
+## Wago PLC
+* [CVE-2023-4089](https://certvde.com/de/advisories/VDE-2023-046/), LFI in Wago PLC
+
 ## IBM Content Navigator
 * [CVE-2024-56341](https://www.ibm.com/support/pages/node/7229839) Cross-site scripting
 
