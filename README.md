@@ -1,7 +1,7 @@
 The following is a list of my collected CVE's
 
-## Wago PLC
-* [CVE-2023-4089](https://certvde.com/de/advisories/VDE-2023-046/), LFI in Wago PLC
+## Clever Display BlueOne
+* [CVE-2025-36755](https://csirt.divd.nl/cves/CVE-2025-36755/), BIOS access through physical USB keyboard
 
 ## IBM Content Navigator
 * [CVE-2024-56341](https://www.ibm.com/support/pages/node/7229839) Cross-site scripting
@@ -15,6 +15,9 @@ Tripleplay’s TripleSign Digital Signage is a fully integrated digital signage 
 
 ## Comfortkey
 * [CVE-2024-27120](https://csirt.divd.nl/cves/CVE-2024-27120/) Path traversal
+
+## Wago PLC
+* [CVE-2023-4089](https://certvde.com/de/advisories/VDE-2023-046/), LFI in Wago PLC
 
 ## FortiClient for Windows
 * [CVE-2023-37939](https://github.com/sT0wn-nl/CVEs/tree/master/CVE-2023-37939]/README.md) Information disclosure
